@@ -8,6 +8,10 @@ void main()
      if(a>b)
      {
        printf("a is greatest");
+         else
+         {
+             printf("b is greatest");
+         }
      }
    getch();
 }
